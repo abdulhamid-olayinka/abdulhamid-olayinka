@@ -1,4 +1,6 @@
-## Hi there 👋
+# Abdulhamid Olayinka
+
+Hi there. Welcome to my Github profile! I'm Abdulhamid Olayinka, a data science and Machine Learning/AI enthusiast. I enjoy working with data to drive meaningful insights and building intelligent solutions to solve real-world problems across different domains. I'm continuosly improving my skills and knowledge, and I use this space to share my learning journey, experiments and projects.
 
 <!--
 **abdulhamid-olayinka/abdulhamid-olayinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
